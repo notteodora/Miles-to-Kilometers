@@ -7,3 +7,4 @@ The second change!
 
 The new change.
 
+The second change for GitBash
